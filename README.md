@@ -2,7 +2,11 @@
 A repository for the Intro to Data Science (WIA1007) group project.
 
 Group Name: Intelligex (B)
+
+
 Project Title: Handwritten Digit Classification
+
+
 Group Members: 
   * Mujahed Yahia Murad (S2042189) - Leader
   * Muhammad Shaban Waris (S2038756)
